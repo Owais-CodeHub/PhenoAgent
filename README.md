@@ -1,4 +1,4 @@
-# Agentic Agri-Robotic Phenotyping: Curated Literature & Reference Hub
+# Recent Advances in Agentic Agri-Robotic Phenotyping: A Perspective Review from Fragmented Multimodal Sensing to Unified PhenoAgent Intelligence
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Curated References](https://img.shields.io/badge/Curated%20References-114%20Papers-brightgreen.svg)](#-curated-literature-matrix)
